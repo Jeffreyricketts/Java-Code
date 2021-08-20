@@ -1,2 +1,2 @@
 # Java-Code
-My Java library for reference
+Java library for reference
